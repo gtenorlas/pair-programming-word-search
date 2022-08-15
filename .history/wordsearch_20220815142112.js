@@ -1,12 +1,3 @@
-/*
-Pair Programming Activity performed on August 12, 2022 at 3:00 PM EST
-Members:
-Gene Tenorlas
-Bryce Haley
-Sarah Zhu
-
-*/
-
 const createVerticalArrs = (arr) => {
     const outMatrix = [];
     
